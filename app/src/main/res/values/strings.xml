@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestApp1</string>
+    <string name="validez">Validez</string>
+    <string name="saisirnom">Veuillez saisir votre pr\énom,puis tapoter sur Validez.</string>
+    <string name="prenom">Pr\énom</string>
+    <string name="relancer">Relancer</string>
+</resources>
